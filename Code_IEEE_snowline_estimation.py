@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+@author: Parul
 #Snowline estimation from Sentinel-2 and Landsat
 # Before running the follwing code please replace 'input/output folder location' with your input/output folder locations, define total number of images and define buffer size according to the sensor (Sentinel-2/Landsat)
 """
